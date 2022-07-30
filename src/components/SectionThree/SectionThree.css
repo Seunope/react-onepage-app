@@ -146,6 +146,10 @@ img {
     padding-bottom: 65px;
   }
 
+  .text-float {
+    display: none;
+  }
+
   .col {
     max-width: 100%;
     flex-basis: 100%;
